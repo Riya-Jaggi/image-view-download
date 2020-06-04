@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         when (view.id) {
             R.id.botton -> {
                 var intent = Intent(this, GalleryViewActivity::class.java)
-                intent.putExtra("imageUrl", "https://image.shutterstock.com/image-photo/mountains-during-sunset-beautiful-natural-260nw-407021107.jpg"
+                intent.putExtra("imageUrl", "https://newevolutiondesigns.com/images/freebies/hd-wallpaper-44.jpg"
                 )
                 intent.putExtra("folderName","Folder")
                 startActivity(intent)
