@@ -1,6 +1,5 @@
 # image-view-download
-# image
-# image download
+
 
 Image View  And Download Is An Easy To Use Library That Helps You To Pass Image Image Url And See Image In Bigger Picture Along With Functionality To Download Image.
 
